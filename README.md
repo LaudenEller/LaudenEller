@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **laudlauden@gmail.com**
 
-- ⚡ Fun fact **I once burned Kim Kardashian's eggs, she didn't mind.**
+- ⚡ Fun fact **I once hitchhiked from New York City to Alaska across Canada**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
