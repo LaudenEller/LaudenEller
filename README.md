@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **laudlauden@gmail.com**
 
-- ⚡ Fun fact **I once hitchhiked from New York City to Alaska across Canada**
+- ⚡ Fun fact **I once hitchhiked from New York City across Canada to Alaska**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
