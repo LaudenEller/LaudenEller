@@ -5,13 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with [Kennels-Server, a Python App](https://github.com/LaudenEller/kennels-server)
-
-- 💬 Ask me about **How I slept**
-
-- 📫 How to reach me **laudlauden@gmail.com**
-
-- ⚡ Fun fact **I once hitchhiked from New York across Canada to Alaska**
+- 💬 Ask me about **Wellness and Productivty**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
