@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lauden Eller</h1>
 <h3 align="center">A full stack web developer interested in ESG regulation</h3>
 
-- 🔭 I’m currently working on [Groce' Inflation, a React App](https://github.com/LaudenEller/1st-capstone-groce-inflation)
+- 🔭 I’m currently working on [Better Portfolios, an investment theme guide that helps fiduciaries find securities that fit their clients' needs](https://github.com/LaudenEller/Final-Capstone-Client)
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Wellness and Productivty**
+- 💬 Ask me about **Data quality problems in the exploding ESG sector**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
