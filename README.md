@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lauden Eller</h1>
 <h3 align="center">A full stack web developer interested in ESG regulation</h3>
 
-- 🔭 I’m currently working on [Better Portfolios](https://github.com/LaudenEller/Final-Capstone-Client), an investment theme guide that helps fiduciaries find securities that fit their clients' portfolio needs and maximizes ESG return.
+- 🔭 I’m currently working on [Better Portfolios](https://github.com/LaudenEller/Final-Capstone-Client), an investment theme guide that helps fiduciaries find securities that fit their clients' portfolio needs while also maximizing their ESG returns.
 
 - 🌱 I’m currently learning **Python**
 
